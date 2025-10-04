@@ -7,7 +7,7 @@ This is a SQL Exploratory Data Analysis project. The project involves querying t
 It could be coded along following this video:  
 [SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
 
-My code differs from the video, as I implemented this project in PostgreSQL, whereas the tutorial was based on a different SQL Database Management System.
+My code differs from the video, as I implemented this project in PostgreSQL, whereas the tutorial is based on a different SQL Database Management System.
 
 ## Project Details
 
