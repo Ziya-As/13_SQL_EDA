@@ -105,7 +105,7 @@ FROM
 
 -- Database Exploration
 -- 
--- Explore All Object in the Database
+-- Explore all tables in the database
 SELECT
   *
 FROM
@@ -125,7 +125,7 @@ SELECT
 FROM
   INFORMATION_SCHEMA.COLUMNS;
 
--- Explore all columns in a specific table
+-- Explore all columns in specific tables
 SELECT
   *
 FROM
