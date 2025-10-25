@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is a SQL Exploratory Data Analysis project. The project involves querying the database, using aliases for table names, `JOIN`s, `UNION`s, subqueries, ranking using the window functions, aggregate functions, grouping, ordering, and limiting the result set, and using date functions.
+This is a SQL Exploratory Data Analysis project. The project involves querying the database, using aliases for table names, `JOIN`s, `UNION`s, subqueries, ranking using the window functions, aggregate functions, grouping, ordering, limiting the result set, and using date functions.
 
 It could be coded along following this video:  
 [SQL Exploratory Data Analysis (EDA) Project | Full Hands-On Portfolio Project](https://www.youtube.com/watch?v=6cJ5Ji8zSDg)
